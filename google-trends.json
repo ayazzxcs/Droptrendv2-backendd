@@ -1,210 +1,50 @@
 {
-  "updatedAt": "2026-06-05T11:44:57.058Z",
+  "updatedAt": "2026-06-05T18:37:09.370Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
   "keywordAttemptCount": 120,
-  "count": 97,
+  "count": 47,
   "noDataCount": 0,
-  "failedCount": 23,
+  "failedCount": 73,
   "signals": [
     {
-      "keyword": "outdoor grill tools",
-      "googleTrendScore": 77,
-      "growthPercent": 219,
-      "firstAvg": 6,
-      "lastAvg": 20,
-      "latestValue": 25,
+      "keyword": "necklace pendants",
+      "googleTrendScore": 79,
+      "growthPercent": 125,
+      "firstAvg": 23,
+      "lastAvg": 51,
+      "latestValue": 49,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "other replacement parts",
       "googleTrendScore": 76,
-      "growthPercent": 155,
+      "growthPercent": 164,
       "firstAvg": 6,
-      "lastAvg": 16,
-      "latestValue": 20,
+      "lastAvg": 17,
+      "latestValue": 17,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "bracelets bangles",
-      "googleTrendScore": 72,
-      "growthPercent": 413,
+      "googleTrendScore": 71,
+      "growthPercent": 371,
       "firstAvg": 6,
-      "lastAvg": 32,
-      "latestValue": 31,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "video bathroom vanity sink",
-      "googleTrendScore": 72,
-      "growthPercent": 106,
-      "firstAvg": 0,
-      "lastAvg": 53,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "3ft single",
-      "googleTrendScore": 69,
-      "growthPercent": 100,
-      "firstAvg": 0,
-      "lastAvg": 50,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "999 sterling silver",
-      "googleTrendScore": 61,
-      "growthPercent": 88,
-      "firstAvg": 0,
-      "lastAvg": 44,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "bed single children",
-      "googleTrendScore": 61,
-      "growthPercent": 88,
-      "firstAvg": 0,
-      "lastAvg": 44,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "imperial bench",
-      "googleTrendScore": 60,
-      "growthPercent": 86,
-      "firstAvg": 0,
-      "lastAvg": 43,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "castle sofa modular",
-      "googleTrendScore": 45,
-      "growthPercent": 63,
-      "firstAvg": 0,
-      "lastAvg": 31,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "only self tools",
-      "googleTrendScore": 43,
-      "growthPercent": 60,
-      "firstAvg": 0,
-      "lastAvg": 30,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "chaise set headrest",
-      "googleTrendScore": 34,
-      "growthPercent": 44,
-      "firstAvg": 0,
-      "lastAvg": 22,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "suits sets",
-      "googleTrendScore": 33,
-      "growthPercent": 9,
-      "firstAvg": 37,
-      "lastAvg": 40,
-      "latestValue": 48,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "bed frame",
-      "googleTrendScore": 33,
-      "growthPercent": -33,
-      "firstAvg": 74,
-      "lastAvg": 50,
-      "latestValue": 53,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "necklace pendants",
-      "googleTrendScore": 31,
-      "growthPercent": -7,
-      "firstAvg": 49,
-      "lastAvg": 45,
-      "latestValue": 63,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "lounge chaise set space",
-      "googleTrendScore": 31,
-      "growthPercent": 40,
-      "firstAvg": 0,
-      "lastAvg": 20,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "silver jewelry",
-      "googleTrendScore": 29,
-      "growthPercent": -51,
-      "firstAvg": 79,
-      "lastAvg": 39,
-      "latestValue": 42,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sectional couch",
-      "googleTrendScore": 29,
-      "growthPercent": -35,
-      "firstAvg": 61,
-      "lastAvg": 40,
-      "latestValue": 41,
+      "lastAvg": 29,
+      "latestValue": 10,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "replacement parts",
       "googleTrendScore": 28,
-      "growthPercent": -14,
+      "growthPercent": -15,
       "firstAvg": 74,
-      "lastAvg": 64,
-      "latestValue": 51,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "massage relaxation",
-      "googleTrendScore": 28,
-      "growthPercent": -48,
-      "firstAvg": 71,
-      "lastAvg": 37,
-      "latestValue": 42,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "lady dress",
-      "googleTrendScore": 27,
-      "growthPercent": -55,
-      "firstAvg": 76,
-      "lastAvg": 34,
-      "latestValue": 34,
+      "lastAvg": 63,
+      "latestValue": 57,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -220,271 +60,31 @@
     },
     {
       "keyword": "blouses shirts",
-      "googleTrendScore": 27,
-      "growthPercent": -43,
-      "firstAvg": 61,
-      "lastAvg": 34,
-      "latestValue": 43,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "casual shoes",
       "googleTrendScore": 26,
-      "growthPercent": -58,
-      "firstAvg": 76,
-      "lastAvg": 32,
-      "latestValue": 35,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "silver platinum",
-      "googleTrendScore": 25,
-      "growthPercent": -55,
-      "firstAvg": 66,
-      "lastAvg": 29,
-      "latestValue": 31,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "bathroom storage cabinet",
-      "googleTrendScore": 25,
-      "growthPercent": -45,
-      "firstAvg": 52,
-      "lastAvg": 28,
-      "latestValue": 30,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "office storage",
-      "googleTrendScore": 25,
-      "growthPercent": -65,
-      "firstAvg": 78,
-      "lastAvg": 28,
-      "latestValue": 29,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "acacia wood furniture",
-      "googleTrendScore": 25,
-      "growthPercent": -45,
-      "firstAvg": 52,
-      "lastAvg": 29,
-      "latestValue": 31,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "evening dress",
-      "googleTrendScore": 25,
-      "growthPercent": -56,
+      "growthPercent": -48,
       "firstAvg": 63,
-      "lastAvg": 28,
-      "latestValue": 33,
+      "lastAvg": 33,
+      "latestValue": 34,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "sterling silver",
-      "googleTrendScore": 24,
-      "growthPercent": -65,
+      "keyword": "bed frame",
+      "googleTrendScore": 23,
+      "growthPercent": -32,
       "firstAvg": 71,
-      "lastAvg": 25,
-      "latestValue": 28,
+      "lastAvg": 48,
+      "latestValue": 45,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "gold plated",
-      "googleTrendScore": 24,
-      "growthPercent": -65,
-      "firstAvg": 76,
-      "lastAvg": 26,
-      "latestValue": 33,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sofa ottoman",
-      "googleTrendScore": 24,
-      "growthPercent": -58,
-      "firstAvg": 59,
-      "lastAvg": 25,
-      "latestValue": 30,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sofa convertible",
-      "googleTrendScore": 24,
-      "growthPercent": -65,
-      "firstAvg": 69,
-      "lastAvg": 24,
-      "latestValue": 27,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "cloud sectional couch",
-      "googleTrendScore": 24,
-      "growthPercent": -57,
-      "firstAvg": 62,
-      "lastAvg": 27,
-      "latestValue": 28,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "bathroom vanity furniture",
-      "googleTrendScore": 23,
-      "growthPercent": -55,
-      "firstAvg": 49,
-      "lastAvg": 22,
-      "latestValue": 23,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sectional sofa ottoman",
-      "googleTrendScore": 23,
-      "growthPercent": -59,
-      "firstAvg": 58,
-      "lastAvg": 24,
-      "latestValue": 28,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "upholstered bed furniture",
-      "googleTrendScore": 23,
-      "growthPercent": -65,
-      "firstAvg": 68,
-      "lastAvg": 24,
-      "latestValue": 27,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sofa modular",
-      "googleTrendScore": 23,
-      "growthPercent": -66,
-      "firstAvg": 63,
-      "lastAvg": 22,
-      "latestValue": 22,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "chair set",
-      "googleTrendScore": 23,
-      "growthPercent": -66,
-      "firstAvg": 65,
-      "lastAvg": 22,
-      "latestValue": 23,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "925 silver jewelry",
-      "googleTrendScore": 22,
-      "growthPercent": -69,
-      "firstAvg": 70,
-      "lastAvg": 21,
-      "latestValue": 27,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "furniture tools",
-      "googleTrendScore": 22,
-      "growthPercent": -73,
-      "firstAvg": 71,
-      "lastAvg": 19,
-      "latestValue": 21,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "cloud sectional sofa ottoman",
-      "googleTrendScore": 22,
-      "growthPercent": -64,
-      "firstAvg": 56,
-      "lastAvg": 20,
-      "latestValue": 25,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "convertible sofa furniture",
-      "googleTrendScore": 22,
-      "growthPercent": -61,
-      "firstAvg": 54,
-      "lastAvg": 21,
-      "latestValue": 27,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "set space",
-      "googleTrendScore": 22,
-      "growthPercent": -72,
-      "firstAvg": 73,
-      "lastAvg": 20,
-      "latestValue": 22,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "home office storage",
-      "googleTrendScore": 22,
-      "growthPercent": -72,
-      "firstAvg": 69,
-      "lastAvg": 19,
-      "latestValue": 22,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "set headrest",
-      "googleTrendScore": 22,
-      "growthPercent": -67,
-      "firstAvg": 58,
-      "lastAvg": 19,
-      "latestValue": 24,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "tall bathroom storage cabinet",
-      "googleTrendScore": 22,
-      "growthPercent": -54,
-      "firstAvg": 44,
-      "lastAvg": 20,
-      "latestValue": 23,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "slim straight",
-      "googleTrendScore": 22,
-      "growthPercent": -72,
-      "firstAvg": 74,
-      "lastAvg": 21,
-      "latestValue": 26,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "leather suede",
+      "keyword": "s925 sterling jewelry",
       "googleTrendScore": 21,
-      "growthPercent": -75,
-      "firstAvg": 74,
-      "lastAvg": 18,
-      "latestValue": 19,
+      "growthPercent": 24,
+      "firstAvg": 0,
+      "lastAvg": 12,
+      "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -494,7 +94,7 @@
       "growthPercent": -36,
       "firstAvg": 67,
       "lastAvg": 43,
-      "latestValue": 38,
+      "latestValue": 35,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -504,24 +104,14 @@
       "growthPercent": -34,
       "firstAvg": 64,
       "lastAvg": 42,
-      "latestValue": 37,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "quartz watch",
-      "googleTrendScore": 21,
-      "growthPercent": -76,
-      "firstAvg": 70,
-      "lastAvg": 17,
-      "latestValue": 18,
+      "latestValue": 34,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "sink cabinet",
       "googleTrendScore": 21,
-      "growthPercent": -35,
+      "growthPercent": -36,
       "firstAvg": 68,
       "lastAvg": 44,
       "latestValue": 37,
@@ -529,32 +119,12 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "sofa corduroy",
-      "googleTrendScore": 21,
-      "growthPercent": -74,
-      "firstAvg": 69,
-      "lastAvg": 18,
-      "latestValue": 19,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sofa modern",
-      "googleTrendScore": 21,
-      "growthPercent": -76,
-      "firstAvg": 71,
-      "lastAvg": 17,
-      "latestValue": 18,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "pet snacks",
-      "googleTrendScore": 21,
-      "growthPercent": -72,
-      "firstAvg": 57,
-      "lastAvg": 16,
-      "latestValue": 17,
+      "keyword": "suits sets",
+      "googleTrendScore": 20,
+      "growthPercent": -18,
+      "firstAvg": 50,
+      "lastAvg": 41,
+      "latestValue": 37,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -562,89 +132,29 @@
       "keyword": "bathroom vanity sink",
       "googleTrendScore": 20,
       "growthPercent": -36,
-      "firstAvg": 61,
+      "firstAvg": 62,
       "lastAvg": 39,
-      "latestValue": 34,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "cloud sofa corduroy",
-      "googleTrendScore": 20,
-      "growthPercent": -72,
-      "firstAvg": 55,
-      "lastAvg": 15,
-      "latestValue": 16,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "video bathroom furniture",
-      "googleTrendScore": 20,
-      "growthPercent": 22,
-      "firstAvg": 0,
-      "lastAvg": 11,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "sterling silver platinum",
-      "googleTrendScore": 20,
-      "growthPercent": -70,
-      "firstAvg": 47,
-      "lastAvg": 14,
-      "latestValue": 19,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "inch bathroom vanity sink",
-      "googleTrendScore": 20,
-      "growthPercent": -33,
-      "firstAvg": 58,
-      "lastAvg": 39,
-      "latestValue": 36,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "acacia wood chaise",
-      "googleTrendScore": 20,
-      "growthPercent": -50,
-      "firstAvg": 28,
-      "lastAvg": 14,
-      "latestValue": 15,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "s925 gold plated",
-      "googleTrendScore": 19,
-      "growthPercent": 21,
-      "firstAvg": 0,
-      "lastAvg": 11,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "lounge chaise furniture",
-      "googleTrendScore": 19,
-      "growthPercent": -30,
-      "firstAvg": 52,
-      "lastAvg": 36,
       "latestValue": 31,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "short-sleeved shirts",
+      "keyword": "silver jewelry",
       "googleTrendScore": 19,
-      "growthPercent": 21,
-      "firstAvg": 0,
-      "lastAvg": 11,
-      "latestValue": 0,
+      "growthPercent": -52,
+      "firstAvg": 79,
+      "lastAvg": 38,
+      "latestValue": 37,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "lady dress",
+      "googleTrendScore": 18,
+      "growthPercent": -55,
+      "firstAvg": 76,
+      "lastAvg": 34,
+      "latestValue": 30,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -654,227 +164,207 @@
       "growthPercent": -88,
       "firstAvg": 66,
       "lastAvg": 8,
-      "latestValue": 10,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "wool blend",
-      "googleTrendScore": 18,
-      "growthPercent": -86,
-      "firstAvg": 68,
-      "lastAvg": 10,
-      "latestValue": 10,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "chaise set space",
-      "googleTrendScore": 18,
-      "growthPercent": -30,
-      "firstAvg": 11,
-      "lastAvg": 7,
-      "latestValue": 15,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "hand tools",
-      "googleTrendScore": 18,
-      "growthPercent": -58,
-      "firstAvg": 81,
-      "lastAvg": 34,
-      "latestValue": 34,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "straight-leg pants",
-      "googleTrendScore": 18,
-      "growthPercent": -86,
-      "firstAvg": 62,
-      "lastAvg": 9,
-      "latestValue": 9,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "coffee table",
-      "googleTrendScore": 18,
-      "growthPercent": -50,
-      "firstAvg": 67,
-      "lastAvg": 34,
-      "latestValue": 32,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "vanity double",
-      "googleTrendScore": 18,
-      "growthPercent": -44,
-      "firstAvg": 58,
-      "lastAvg": 33,
-      "latestValue": 30,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "bathroom vanity double",
-      "googleTrendScore": 18,
-      "growthPercent": -44,
-      "firstAvg": 59,
-      "lastAvg": 33,
-      "latestValue": 27,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "single children",
-      "googleTrendScore": 18,
-      "growthPercent": -62,
-      "firstAvg": 87,
-      "lastAvg": 33,
-      "latestValue": 30,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "vanity sink cabinet",
-      "googleTrendScore": 17,
-      "growthPercent": -45,
-      "firstAvg": 55,
-      "lastAvg": 30,
-      "latestValue": 28,
+      "latestValue": 8,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "garden tools",
-      "googleTrendScore": 17,
+      "googleTrendScore": 18,
       "growthPercent": -52,
       "firstAvg": 68,
+      "lastAvg": 33,
+      "latestValue": 28,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "casual shoes",
+      "googleTrendScore": 17,
+      "growthPercent": -58,
+      "firstAvg": 76,
       "lastAvg": 32,
-      "latestValue": 26,
+      "latestValue": 28,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "storage cabinet",
       "googleTrendScore": 17,
-      "growthPercent": -50,
+      "growthPercent": -49,
       "firstAvg": 62,
-      "lastAvg": 31,
-      "latestValue": 29,
+      "lastAvg": 32,
+      "latestValue": 30,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "bathroom vanity sink cabinet",
+      "keyword": "lounge chaise furniture",
       "googleTrendScore": 16,
-      "growthPercent": -43,
-      "firstAvg": 51,
+      "growthPercent": -32,
+      "firstAvg": 42,
       "lastAvg": 29,
-      "latestValue": 28,
+      "latestValue": 25,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "chairs set",
+      "keyword": "vanity sink cabinet",
       "googleTrendScore": 16,
-      "growthPercent": -47,
-      "firstAvg": 51,
-      "lastAvg": 27,
-      "latestValue": 26,
+      "growthPercent": -45,
+      "firstAvg": 54,
+      "lastAvg": 30,
+      "latestValue": 24,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "ceramic sink",
+      "keyword": "sterling silver",
       "googleTrendScore": 15,
-      "growthPercent": -58,
-      "firstAvg": 58,
-      "lastAvg": 24,
-      "latestValue": 19,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "dining chairs set",
-      "googleTrendScore": 15,
-      "growthPercent": -50,
-      "firstAvg": 49,
+      "growthPercent": -65,
+      "firstAvg": 72,
       "lastAvg": 25,
-      "latestValue": 23,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "s925 sterling jewelry",
-      "googleTrendScore": 14,
-      "growthPercent": 13,
-      "firstAvg": 0,
-      "lastAvg": 6,
-      "latestValue": 0,
+      "latestValue": 25,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "cloud sectional furniture",
-      "googleTrendScore": 14,
-      "growthPercent": -51,
+      "googleTrendScore": 15,
+      "growthPercent": -45,
       "firstAvg": 46,
-      "lastAvg": 23,
-      "latestValue": 22,
+      "lastAvg": 25,
+      "latestValue": 19,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "30-inch bathroom furniture",
-      "googleTrendScore": 14,
-      "growthPercent": 13,
-      "firstAvg": 0,
-      "lastAvg": 6,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "lounge chaise set headrest",
-      "googleTrendScore": 14,
-      "growthPercent": 13,
-      "firstAvg": 0,
-      "lastAvg": 6,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "suits blazer",
-      "googleTrendScore": 14,
-      "growthPercent": -61,
-      "firstAvg": 62,
-      "lastAvg": 24,
+      "keyword": "gold plated",
+      "googleTrendScore": 15,
+      "growthPercent": -66,
+      "firstAvg": 76,
+      "lastAvg": 26,
       "latestValue": 23,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "bathroom vanity ceramic",
+      "keyword": "bathroom vanity sink cabinet",
+      "googleTrendScore": 15,
+      "growthPercent": -44,
+      "firstAvg": 44,
+      "lastAvg": 25,
+      "latestValue": 19,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "sofa ottoman",
+      "googleTrendScore": 15,
+      "growthPercent": -59,
+      "firstAvg": 60,
+      "lastAvg": 25,
+      "latestValue": 22,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "ceramic sink",
+      "googleTrendScore": 14,
+      "growthPercent": -57,
+      "firstAvg": 56,
+      "lastAvg": 24,
+      "latestValue": 21,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "1pcs 999 sterling silver",
+      "googleTrendScore": 14,
+      "growthPercent": 13,
+      "firstAvg": 0,
+      "lastAvg": 6,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "s925 gold plated",
+      "googleTrendScore": 14,
+      "growthPercent": 13,
+      "firstAvg": 0,
+      "lastAvg": 6,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "sectional sofa ottoman",
+      "googleTrendScore": 14,
+      "growthPercent": -61,
+      "firstAvg": 57,
+      "lastAvg": 22,
+      "latestValue": 19,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "upholstered bed furniture",
+      "googleTrendScore": 14,
+      "growthPercent": -66,
+      "firstAvg": 65,
+      "lastAvg": 22,
+      "latestValue": 18,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "bathroom vanity furniture",
       "googleTrendScore": 13,
-      "growthPercent": -58,
-      "firstAvg": 47,
-      "lastAvg": 20,
-      "latestValue": 16,
+      "growthPercent": -52,
+      "firstAvg": 44,
+      "lastAvg": 21,
+      "latestValue": 17,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "925 silver jewelry",
+      "googleTrendScore": 13,
+      "growthPercent": -69,
+      "firstAvg": 69,
+      "lastAvg": 21,
+      "latestValue": 19,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "cloud sectional sofa ottoman",
+      "googleTrendScore": 13,
+      "growthPercent": -67,
+      "firstAvg": 59,
+      "lastAvg": 19,
+      "latestValue": 17,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "furniture tools",
+      "googleTrendScore": 12,
+      "growthPercent": -73,
+      "firstAvg": 68,
+      "lastAvg": 18,
+      "latestValue": 18,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "bathroom vanity ceramic sink",
       "googleTrendScore": 12,
-      "growthPercent": -59,
-      "firstAvg": 40,
-      "lastAvg": 16,
-      "latestValue": 11,
+      "growthPercent": -61,
+      "firstAvg": 42,
+      "lastAvg": 17,
+      "latestValue": 9,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -882,9 +372,9 @@
       "keyword": "vanity ceramic sink",
       "googleTrendScore": 12,
       "growthPercent": -63,
-      "firstAvg": 44,
-      "lastAvg": 16,
-      "latestValue": 11,
+      "firstAvg": 47,
+      "lastAvg": 17,
+      "latestValue": 12,
       "maxValue": 100,
       "timelinePoints": 32
     },
@@ -893,87 +383,97 @@
       "googleTrendScore": 12,
       "growthPercent": -64,
       "firstAvg": 51,
-      "lastAvg": 19,
+      "lastAvg": 18,
+      "latestValue": 14,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "bathroom vanity ceramic",
+      "googleTrendScore": 12,
+      "growthPercent": -61,
+      "firstAvg": 46,
+      "lastAvg": 18,
+      "latestValue": 14,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "leather suede",
+      "googleTrendScore": 12,
+      "growthPercent": -75,
+      "firstAvg": 73,
+      "lastAvg": 18,
       "latestValue": 17,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "sectional sofa modern",
+      "keyword": "sofa corduroy",
       "googleTrendScore": 12,
-      "growthPercent": -71,
-      "firstAvg": 55,
-      "lastAvg": 16,
-      "latestValue": 16,
+      "growthPercent": -74,
+      "firstAvg": 68,
+      "lastAvg": 18,
+      "latestValue": 15,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "dining chair set",
+      "keyword": "cloud sofa corduroy",
       "googleTrendScore": 12,
-      "growthPercent": -65,
-      "firstAvg": 50,
-      "lastAvg": 18,
-      "latestValue": 16,
+      "growthPercent": -72,
+      "firstAvg": 58,
+      "lastAvg": 16,
+      "latestValue": 12,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "quartz watch",
+      "googleTrendScore": 11,
+      "growthPercent": -76,
+      "firstAvg": 65,
+      "lastAvg": 16,
+      "latestValue": 13,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "inch bathroom furniture",
       "googleTrendScore": 11,
-      "growthPercent": -56,
-      "firstAvg": 35,
-      "lastAvg": 16,
-      "latestValue": 15,
+      "growthPercent": -61,
+      "firstAvg": 34,
+      "lastAvg": 13,
+      "latestValue": 12,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "cloud sectional sofa modern",
-      "googleTrendScore": 11,
-      "growthPercent": -71,
-      "firstAvg": 49,
-      "lastAvg": 14,
-      "latestValue": 13,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "wood chaise",
-      "googleTrendScore": 11,
-      "growthPercent": -65,
-      "firstAvg": 42,
-      "lastAvg": 15,
-      "latestValue": 13,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "polyester accent",
+      "keyword": "wool blend",
       "googleTrendScore": 9,
       "growthPercent": -86,
-      "firstAvg": 60,
-      "lastAvg": 8,
-      "latestValue": 7,
+      "firstAvg": 68,
+      "lastAvg": 10,
+      "latestValue": 8,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "wave sofa convertible",
+      "keyword": "999 sterling silver",
       "googleTrendScore": 8,
-      "growthPercent": -41,
-      "firstAvg": 12,
-      "lastAvg": 7,
+      "growthPercent": -62,
+      "firstAvg": 11,
+      "lastAvg": 4,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "tall bathroom furniture",
-      "googleTrendScore": 8,
-      "growthPercent": -52,
-      "firstAvg": 12,
-      "lastAvg": 6,
+      "keyword": "only self tools",
+      "googleTrendScore": 7,
+      "growthPercent": -68,
+      "firstAvg": 6,
+      "lastAvg": 2,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
@@ -982,96 +482,204 @@
   "noData": [],
   "failed": [
     {
-      "keyword": "1pcs 999 sterling silver",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b56db6a86799a3fd392a\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/EVs2ovyzA36AeAxqyUNA9A/6a22b56db6a86799a3fd392a.json\",\"created_at\":\"2026-06-05 11:39:25 UTC\",\"processed_at\":\"2026-06-05 11:39:25 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%221pcs+999+sterling+silver%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/EVs2ovyzA36AeAxqyUNA9A/6a22b56db6a86799a3fd392a.html\",\"prettify_html_file\":\"https://serpapi.com/searches/EVs2ovyzA36A"
-    },
-    {
-      "keyword": "topmax outdoor furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5b6895d90336e72a0bd\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/xtq4hjYIEtI_1NwLlbtFqg/6a22b5b6895d90336e72a0bd.json\",\"created_at\":\"2026-06-05 11:40:38 UTC\",\"processed_at\":\"2026-06-05 11:40:38 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22topmax+outdoor+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/xtq4hjYIEtI_1NwLlbtFqg/6a22b5b6895d90336e72a0bd.html\",\"prettify_html_file\":\"https://serpapi.com/searches/xtq4hjYIEtI_"
+      "keyword": "video bathroom furniture",
+      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a23170d5c93016500567207\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/y_oYdvqewKI998gszFBDpQ/6a23170d5c93016500567207.json\",\"created_at\":\"2026-06-05 18:35:57 UTC\",\"processed_at\":\"2026-06-05 18:35:57 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22video+bathroom+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/y_oYdvqewKI998gszFBDpQ/6a23170d5c93016500567207.html\",\"prettify_html_file\":\"https://serpapi.com/searches/y_oYdvqewKI9"
     },
     {
       "keyword": "1pcs 999 pendants",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5b8f607a95a7f811457\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL76qQ/6a22b5b8f607a95a7f811457.json\",\"created_at\":\"2026-06-05 11:40:40 UTC\",\"processed_at\":\"2026-06-05 11:40:40 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%221pcs+999+pendants%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL76qQ/6a22b5b8f607a95a7f811457.html\",\"prettify_html_file\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL7"
+      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a23172a9b762d6937a7e4ee\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL76qQ/6a23172a9b762d6937a7e4ee.json\",\"created_at\":\"2026-06-05 18:36:26 UTC\",\"processed_at\":\"2026-06-05 18:36:26 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%221pcs+999+pendants%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL76qQ/6a23172a9b762d6937a7e4ee.html\",\"prettify_html_file\":\"https://serpapi.com/searches/vA2QWm1HC0FTHXaqfL7"
     },
     {
-      "keyword": "compression wave sofa convertible",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5bebd17311b1ce4e15f\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/0y_5fcsyYEp55IQ7chKHYg/6a22b5bebd17311b1ce4e15f.json\",\"created_at\":\"2026-06-05 11:40:46 UTC\",\"processed_at\":\"2026-06-05 11:40:46 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22compression+wave+sofa+convertible%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/0y_5fcsyYEp55IQ7chKHYg/6a22b5bebd17311b1ce4e15f.html\",\"prettify_html_file\":\"https://serpapi.com/searches/0y_"
-    },
-    {
-      "keyword": "compression wave furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5c4018c48336e3e92c0\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/ZlX42DNWUOcZl2nwm-LCtA/6a22b5c4018c48336e3e92c0.json\",\"created_at\":\"2026-06-05 11:40:52 UTC\",\"processed_at\":\"2026-06-05 11:40:52 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22compression+wave+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/ZlX42DNWUOcZl2nwm-LCtA/6a22b5c4018c48336e3e92c0.html\",\"prettify_html_file\":\"https://serpapi.com/searches/ZlX42DNWUO"
+      "keyword": "topmax outdoor furniture",
+      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a231749e396eb2b695c898c\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/xtq4hjYIEtI_1NwLlbtFqg/6a231749e396eb2b695c898c.json\",\"created_at\":\"2026-06-05 18:36:57 UTC\",\"processed_at\":\"2026-06-05 18:36:57 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22topmax+outdoor+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/xtq4hjYIEtI_1NwLlbtFqg/6a231749e396eb2b695c898c.html\",\"prettify_html_file\":\"https://serpapi.com/searches/xtq4hjYIEtI_"
     },
     {
       "keyword": "s925 sterling silver platinum",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5c8f0114aaa53fa3042\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/f8BvJFX4xXJ2xE-OJJvQIg/6a22b5c8f0114aaa53fa3042.json\",\"created_at\":\"2026-06-05 11:40:56 UTC\",\"processed_at\":\"2026-06-05 11:40:56 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22s925+sterling+silver+platinum%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/f8BvJFX4xXJ2xE-OJJvQIg/6a22b5c8f0114aaa53fa3042.html\",\"prettify_html_file\":\"https://serpapi.com/searches/f8BvJFX"
+      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a23174eb24c5dc61e410950\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/f8BvJFX4xXJ2xE-OJJvQIg/6a23174eb24c5dc61e410950.json\",\"created_at\":\"2026-06-05 18:37:02 UTC\",\"processed_at\":\"2026-06-05 18:37:02 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22s925+sterling+silver+platinum%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/f8BvJFX4xXJ2xE-OJJvQIg/6a23174eb24c5dc61e410950.html\",\"prettify_html_file\":\"https://serpapi.com/searches/f8BvJFX"
+    },
+    {
+      "keyword": "silver platinum",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "sterling silver platinum",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "107 cloud furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b5cf532a171d82843b0b\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/byNIiI421eRKvZ1Ehqrcjw/6a22b5cf532a171d82843b0b.json\",\"created_at\":\"2026-06-05 11:41:03 UTC\",\"processed_at\":\"2026-06-05 11:41:03 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22107+cloud+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/byNIiI421eRKvZ1Ehqrcjw/6a22b5cf532a171d82843b0b.html\",\"prettify_html_file\":\"https://serpapi.com/searches/byNIiI421eRKvZ1Eh"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "convertible sofa furniture",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "bathroom storage cabinet",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "cloud sectional sofa modern",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "sofa modern",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "sectional sofa modern",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "short-sleeved shirts",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "sectional couch",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "cloud sectional couch",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "lounge chaise set space",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "set space",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "chaise set space",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "inch bathroom vanity sink",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "30-inch bathroom furniture",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "foldable castle sofa modular",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b615f5c2f84d8b43f788\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/wc4G-kuxcUoDTWRaIlaO4g/6a22b615f5c2f84d8b43f788.json\",\"created_at\":\"2026-06-05 11:42:13 UTC\",\"processed_at\":\"2026-06-05 11:42:13 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22foldable+castle+sofa+modular%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/wc4G-kuxcUoDTWRaIlaO4g/6a22b615f5c2f84d8b43f788.html\",\"prettify_html_file\":\"https://serpapi.com/searches/wc4G-kux"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "sofa modular",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "castle sofa modular",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "foldable castle furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6248ffd7bc22c41dcda\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/4jQQFXvrq4s3SDRFhFYygw/6a22b6248ffd7bc22c41dcda.json\",\"created_at\":\"2026-06-05 11:42:28 UTC\",\"processed_at\":\"2026-06-05 11:42:28 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22foldable+castle+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/4jQQFXvrq4s3SDRFhFYygw/6a22b6248ffd7bc22c41dcda.html\",\"prettify_html_file\":\"https://serpapi.com/searches/4jQQFXvrq4s"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "non-stretch straight-leg pants",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b63889ec19cbb9187e0c\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/UlV2suMqAcboaNJS9L85wA/6a22b63889ec19cbb9187e0c.json\",\"created_at\":\"2026-06-05 11:42:48 UTC\",\"processed_at\":\"2026-06-05 11:42:48 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22non-stretch+straight-leg+pants%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/UlV2suMqAcboaNJS9L85wA/6a22b63889ec19cbb9187e0c.html\",\"prettify_html_file\":\"https://serpapi.com/searches/UlV2su"
+      "keyword": "video bathroom vanity sink",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "chair set",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "dining chairs set",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "tall bathroom furniture",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "102 cloud sofa corduroy",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b63dde1f3348f9eb5b8b\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/3pgHwnRp2CbaC3z1MH1TIQ/6a22b63dde1f3348f9eb5b8b.json\",\"created_at\":\"2026-06-05 11:42:53 UTC\",\"processed_at\":\"2026-06-05 11:42:53 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22102+cloud+sofa+corduroy%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/3pgHwnRp2CbaC3z1MH1TIQ/6a22b63dde1f3348f9eb5b8b.html\",\"prettify_html_file\":\"https://serpapi.com/searches/3pgHwnRp2CbaC"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "102 cloud furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b63da8dce628a78537ae\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/GDPhYkeRphw5_nCw7CUA1w/6a22b63da8dce628a78537ae.json\",\"created_at\":\"2026-06-05 11:42:53 UTC\",\"processed_at\":\"2026-06-05 11:42:53 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22102+cloud+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/GDPhYkeRphw5_nCw7CUA1w/6a22b63da8dce628a78537ae.html\",\"prettify_html_file\":\"https://serpapi.com/searches/GDPhYkeRphw5_nCw7"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "1pcs 999 bangles",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b64022abf783e26e06f1\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/ypgoCzDyQJ7lTJctnk_t5w/6a22b64022abf783e26e06f1.json\",\"created_at\":\"2026-06-05 11:42:56 UTC\",\"processed_at\":\"2026-06-05 11:42:56 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%221pcs+999+bangles%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/ypgoCzDyQJ7lTJctnk_t5w/6a22b64022abf783e26e06f1.html\",\"prettify_html_file\":\"https://serpapi.com/searches/ypgoCzDyQJ7lTJctnk_t"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "wood chaise",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "acacia wood chaise",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "24-inch bathroom furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b649f73581931a4419cb\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/CvN-6jBk2cn4KfsvW8uvuA/6a22b649f73581931a4419cb.json\",\"created_at\":\"2026-06-05 11:43:05 UTC\",\"processed_at\":\"2026-06-05 11:43:05 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%2224-inch+bathroom+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/CvN-6jBk2cn4KfsvW8uvuA/6a22b649f73581931a4419cb.html\",\"prettify_html_file\":\"https://serpapi.com/searches/CvN-6jBk2c"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "chairs set",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "home office storage",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "office storage",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "hand tools",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "lounge chaise set headrest",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "set headrest",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
+    },
+    {
+      "keyword": "chaise set headrest",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
       "keyword": "107 cloud sectional couch",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b65b80c963a134906c1b\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/6-bEKcpGkiI8GCNuUVzzpQ/6a22b65b80c963a134906c1b.json\",\"created_at\":\"2026-06-05 11:43:23 UTC\",\"processed_at\":\"2026-06-05 11:43:23 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22107+cloud+sectional+couch%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/6-bEKcpGkiI8GCNuUVzzpQ/6a22b65b80c963a134906c1b.html\",\"prettify_html_file\":\"https://serpapi.com/searches/6-bEKcpGkiI"
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "shanxi stretchy slim straight",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6861fad36358ca0c0af\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/0zgdfsPyUoQUlRW8oHCt5Q/6a22b6861fad36358ca0c0af.json\",\"created_at\":\"2026-06-05 11:44:06 UTC\",\"processed_at\":\"2026-06-05 11:44:06 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22shanxi+stretchy+slim+straight%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/0zgdfsPyUoQUlRW8oHCt5Q/6a22b6861fad36358ca0c0af.html\",\"prettify_html_file\":\"https://serpapi.com/searches/0zgdfsP"
+      "keyword": "pet snacks",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "stretchy slim straight",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b68b932b0e958b0fd6f1\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/jFMTWUD9rAlbYE32m4b9KQ/6a22b68b932b0e958b0fd6f1.json\",\"created_at\":\"2026-06-05 11:44:11 UTC\",\"processed_at\":\"2026-06-05 11:44:11 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22stretchy+slim+straight%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/jFMTWUD9rAlbYE32m4b9KQ/6a22b68b932b0e958b0fd6f1.html\",\"prettify_html_file\":\"https://serpapi.com/searches/jFMTWUD9rAlbYE"
+      "keyword": "vanity double",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "shanxi stretchy jeans",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b68cb9e869688b910b3c\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/G6qiM1Nz4-F8uYYgcGY0fQ/6a22b68cb9e869688b910b3c.json\",\"created_at\":\"2026-06-05 11:44:12 UTC\",\"processed_at\":\"2026-06-05 11:44:12 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22shanxi+stretchy+jeans%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/G6qiM1Nz4-F8uYYgcGY0fQ/6a22b68cb9e869688b910b3c.html\",\"prettify_html_file\":\"https://serpapi.com/searches/G6qiM1Nz4-F8uYY"
+      "keyword": "bathroom vanity double",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "bed 3ft single",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6a25a5e96cc0124b936\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/50cw2L8S2An-m17hWgfrBw/6a22b6a25a5e96cc0124b936.json\",\"created_at\":\"2026-06-05 11:44:34 UTC\",\"processed_at\":\"2026-06-05 11:44:34 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22bed+3ft+single%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/50cw2L8S2An-m17hWgfrBw/6a22b6a25a5e96cc0124b936.html\",\"prettify_html_file\":\"https://serpapi.com/searches/50cw2L8S2An-m17hWgfrBw"
+      "keyword": "acacia wood furniture",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "upholstered bed single children",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6a649579a939599eb1c\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/IeW1IyJUCmTTMB9gR3o_OQ/6a22b6a649579a939599eb1c.json\",\"created_at\":\"2026-06-05 11:44:38 UTC\",\"processed_at\":\"2026-06-05 11:44:38 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22upholstered+bed+single+children%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/IeW1IyJUCmTTMB9gR3o_OQ/6a22b6a649579a939599eb1c.html\",\"prettify_html_file\":\"https://serpapi.com/searches/IeW1I"
+      "keyword": "suits blazer",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "134 cloud sofa corduroy",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6aebe918a257b7bbd38\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/5ASVELavJ-XC--7N5zFiTg/6a22b6aebe918a257b7bbd38.json\",\"created_at\":\"2026-06-05 11:44:46 UTC\",\"processed_at\":\"2026-06-05 11:44:46 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22134+cloud+sofa+corduroy%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/5ASVELavJ-XC--7N5zFiTg/6a22b6aebe918a257b7bbd38.html\",\"prettify_html_file\":\"https://serpapi.com/searches/5ASVELavJ-XC-"
+      "keyword": "polyester accent",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "134 cloud furniture",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6af2f5ea02da11db1ed\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/tXvoXsuqOgzZyyVQVELM2A/6a22b6af2f5ea02da11db1ed.json\",\"created_at\":\"2026-06-05 11:44:47 UTC\",\"processed_at\":\"2026-06-05 11:44:47 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22134+cloud+furniture%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/tXvoXsuqOgzZyyVQVELM2A/6a22b6af2f5ea02da11db1ed.html\",\"prettify_html_file\":\"https://serpapi.com/searches/tXvoXsuqOgzZyyVQV"
+      "keyword": "dining chair set",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     },
     {
-      "keyword": "pet training educational toys",
-      "error": "SerpApi error 200: {\"search_metadata\":{\"id\":\"6a22b6b602ab8c3201354ec5\",\"status\":\"Success\",\"json_endpoint\":\"https://serpapi.com/searches/K6yyTReQQ7n3NtUUU5Wjfw/6a22b6b602ab8c3201354ec5.json\",\"created_at\":\"2026-06-05 11:44:54 UTC\",\"processed_at\":\"2026-06-05 11:44:54 UTC\",\"google_trends_url\":\"https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22pet+training+educational+toys%22%2C%22geo%22%3A%22US%22%2C%22time%22%3A%22today+1-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D\",\"raw_html_file\":\"https://serpapi.com/searches/K6yyTReQQ7n3NtUUU5Wjfw/6a22b6b602ab8c3201354ec5.html\",\"prettify_html_file\":\"https://serpapi.com/searches/K6yyTRe"
+      "keyword": "tall bathroom storage cabinet",
+      "error": "SerpApi error 429: {\"error\":\"Your account has run out of searches.\"}"
     }
   ]
 }

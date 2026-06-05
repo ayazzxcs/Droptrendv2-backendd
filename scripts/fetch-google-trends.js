@@ -6,10 +6,6 @@ const GEO = process.env.GOOGLE_TRENDS_GEO || "US";
 const DATE_RANGE = process.env.GOOGLE_TRENDS_DATE || "today 1-m";
 const LIMIT = Number(process.env.GOOGLE_TRENDS_LIMIT || 120);
 const MIN_TIMELINE_POINTS = Number(process.env.GOOGLE_TRENDS_MIN_POINTS || 3);
-const STATIC_KEYWORDS = (process.env.TREND_KEYWORDS || "")
-  .split(",")
-  .map(s => cleanKeyword(s))
-  .filter(Boolean);
 
 if (!SERPAPI_KEY) {
   console.error("Missing SERPAPI_KEY secret.");
@@ -62,6 +58,12 @@ const SYNONYMS = new Map([
   ["baby", "baby"],
   ["fitness", "fitness"]
 ]);
+
+
+const STATIC_KEYWORDS = (process.env.TREND_KEYWORDS || "")
+  .split(",")
+  .map(s => cleanKeyword(s))
+  .filter(Boolean);
 
 function readProducts() {
   if (!fs.existsSync("products.json")) return [];

@@ -1,0 +1,53 @@
+name: Fetch DropTrend Products
+
+on:
+workflow_dispatch:
+schedule:
+- cron: '0 */6 * * *'
+
+permissions:
+contents: write
+
+jobs:
+fetch-products:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
+  - name: Setup Node.js
+    uses: actions/setup-node@v4
+    with:
+      node-version: 20
+
+  - name: Install dependencies
+    run: npm ci || npm install
+
+  - name: Fetch CJ Products
+    run: node scripts/fetch-cj-products.js
+    env:
+      CJ_EMAIL: ${{ secrets.CJ_EMAIL }}
+      CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+
+  - name: Fetch Google Trends
+    run: node scripts/fetch-google-trends.js
+    env:
+      SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+
+  - name: Fetch Amazon Products
+    run: node scripts/fetch-amazon-products.js
+    env:
+      RAINFOREST_API_KEY: ${{ secrets.RAINFOREST_API_KEY }}
+
+  - name: Merge Trend Signals
+    run: node scripts/merge-trend-signals.js
+
+  - name: Commit Updated Data
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add products.json data/ *.json || true
+      git commit -m "Update DropTrend data" || echo "No changes to commit"
+      git push
+
